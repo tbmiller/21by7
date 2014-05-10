@@ -34,18 +34,18 @@
 
 
 						<br />
-						<br />
 						<div class="row">
-							<div class="four columns">
+							<div class="three columns">
 								<h3>Lakeside Hideout</h3>
-								<br />
-								Open 9am-9pm<br />
+								Open 9am-9pm<br /><br />
 								Tel: 1 (242) 555-5555
 
 							</div>
-							<div class="eight columns">
+							<div class="nine columns">
 							
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, doloremque, nesciunt, sit architecto voluptatibus unde consectetur assumenda illum ratione dicta sapiente voluptatum dolore iusto autem ipsam consequatur inventore molestiae repellendus dolorem obcaecati voluptates est sed? Voluptate, corporis, illo, quisquam magnam quos debitis perspiciatis asperiores rerum quasi aspernatur possimus omnis fugit magni officiis cumque vitae pariatur dolorem soluta dolorum laboriosam nulla voluptates iusto dignissimos. Asperiores, voluptatibus quae eius ab temporibus obcaecati iure laborum! Ad, voluptas cupiditate harum eos tenetur suscipit beatae!</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, doloremque, nesciunt, sit architecto voluptatibus unde consectetur assumenda illum ratione dicta sapiente voluptatum dolore iusto autem ipsam consequatur inventore molestiae repellendus dolorem obcaecati voluptates est sed? Voluptate, corporis, illo, quisquam magnam quos debitis perspiciatis asperiores rerum quasi aspernatur possimus omnis fugit magni officiis cumque vitae pariatur dolorem soluta dolorum laboriosam nulla voluptates iusto dignissimos. Asperiores, voluptatibus quae eius ab temporibus obcaecati iure laborum! Ad, voluptas cupiditate harum eos tenetur suscipit beatae!</p>
+
+							</div>
 						</div>
 				    </div>
 				</div>
