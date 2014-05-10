@@ -1,0 +1,6 @@
+{
+"version": "3",
+"mappings": ";;;;AACC,oBAAiB;EAEhB,MAAM,EAAC,CAAC;EAER,KAAK,EAAC,KAAK;EAEX,uBAAG;IACF,eAAe,EAAC,IAAI;IACpB,OAAO,EAAC,YAAY;IACpB,OAAO,EAAC,MAAM;IAEd,yBAAE;MACD,KAAK,ECVD,KAAI;MDWR,WAAW,EAAC,IAAI",
+"sources": ["../sass/components/_module.scss","../sass/partials/_color.scss"],
+"file": "screen.css"
+}

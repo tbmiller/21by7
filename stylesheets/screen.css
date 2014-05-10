@@ -1,0 +1,16 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+nav .main-navigation {
+  margin: 0;
+  float: right; }
+  nav .main-navigation li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 20px; }
+    nav .main-navigation li a {
+      color: white;
+      font-weight: bold; }
+
+/*# sourceMappingURL=screen.css.map */
